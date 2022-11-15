@@ -1,6 +1,6 @@
 # pizza order aplication
 
-A very dynamic application i used to practce framer motion.
+A pizza ordering application i used to practice framer motion.
 
 **End Result**
 
